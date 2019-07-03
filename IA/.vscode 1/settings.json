@@ -1,0 +1,5 @@
+{
+    "files.eol": "\n",
+    "ev3devBrowser.download.include": "**/*",
+    "ev3devBrowser.download.exclude": "{ev3dev2/**/*,ev3dev/**/*,**/.*,LICENSE,README.md}"
+}
