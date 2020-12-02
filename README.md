@@ -1,4 +1,4 @@
-# Survivor-Bot build with Python 3 and with EV3dev
+# Survivor-Bot build with Python 3 and EV3dev
 
 Este projeto consiste num software criado em cosola, para resolver um jogo. O bot baseia-se num robo realizado em Lego, com vários motores, sensores e um EV3 Intelligent Brick, com um software para interpretar a linguagem Python. O objetivo do Bot é encontrar peças para consertar uma mota, sem numca ser apanhado pelos zombies. 
 
